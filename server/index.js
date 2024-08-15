@@ -1,6 +1,6 @@
 import express from "express";
 import * as dotenv from "dotenv";
-import cors from "cors";
+// import cors from "cors";
 import mongoose from "mongoose";
 import UserRoutes from "./routes/User.js";
 
